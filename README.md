@@ -56,6 +56,9 @@ This project serves as a comprehensive demonstration of core and advanced Java c
 * **Unit 2**: JavaBeans Property Change Support and Custom Event Models.
 * **Unit 3**: JDBC API, PreparedStatements, Transactions, and SQL Aggregation.
 * **Unit 4**: Advanced Swing components, Layout Management, Custom Painting, and MVC design.
+## Screenshot
+<img width="1806" height="1015" alt="image" src="https://github.com/user-attachments/assets/99b500ff-eb96-49cb-b9a9-a1552b432ca5" />
+
 
 ## 📄 License
 This project is for educational purposes. All rights reserved.
